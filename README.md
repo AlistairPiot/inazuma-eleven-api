@@ -2,9 +2,7 @@
 
 Une API simple écrite en **Rust** avec **Actix Web**, qui fournit des informations sur les joueurs d'Inazuma Eleven. Les données sont stockées dans un fichier `data.json` et l’API les expose via HTTP en JSON.
 
----
-
-## 🔹 Fonctionnalités
+## Fonctionnalités
 
 -   Récupérer la liste complète des joueurs.
 -   Chaque joueur contient :
@@ -14,9 +12,7 @@ Une API simple écrite en **Rust** avec **Actix Web**, qui fournit des informati
     -   Élément (`element`)
     -   Nom de l’équipe (`team`)
 
----
-
-## 🔹 Installation
+## Installation
 
 1. Cloner le dépôt :
 
