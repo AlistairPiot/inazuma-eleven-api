@@ -1,0 +1,718 @@
+[
+    {
+        "team": "Équipe Raimon",
+        "players": [
+            {
+                "name": "Mark Evans",
+                "rarity": "Légendaire",
+                "position": "Gardien",
+                "element": "Terre"
+            },
+            {
+                "name": "Kevin Dragonfly",
+                "rarity": "Commun",
+                "position": "Attaquant",
+                "element": "Bois"
+            },
+            {
+                "name": "Axel Blaze",
+                "rarity": "Rare",
+                "position": "Attaquant",
+                "element": "Feu"
+            },
+            {
+                "name": "Nathan Swift",
+                "rarity": "Commun",
+                "position": "Défenseur",
+                "element": "Vent"
+            },
+            {
+                "name": "Jack Wallside",
+                "rarity": "Commun",
+                "position": "Défenseur",
+                "element": "Terre"
+            },
+            {
+                "name": "Steve Grim",
+                "rarity": "Commun",
+                "position": "Milieu",
+                "element": "Eau"
+            },
+            {
+                "name": "Tod Ironside",
+                "rarity": "Commun",
+                "position": "Défenseur",
+                "element": "Terre"
+            },
+            {
+                "name": "Sam Kincaid",
+                "rarity": "Commun",
+                "position": "Milieu",
+                "element": "Bois"
+            },
+            {
+                "name": "Tim Saunders",
+                "rarity": "Commun",
+                "position": "Milieu",
+                "element": "Vent"
+            },
+            {
+                "name": "Jim Wraith",
+                "rarity": "Commun",
+                "position": "Défenseur",
+                "element": "Terre"
+            },
+            {
+                "name": "Maxwell Carson",
+                "rarity": "Commun",
+                "position": "Défenseur",
+                "element": "Eau"
+            },
+            {
+                "name": "Jude Sharp",
+                "rarity": "Rare",
+                "position": "Milieu",
+                "element": "Feu"
+            }
+        ]
+    },
+    {
+        "team": "Équipe Occultes",
+        "players": [
+            {
+                "name": "Johan Tassman (Talisman)",
+                "rarity": "Légendaire",
+                "position": "Milieu",
+                "element": "Bois"
+            },
+            {
+                "name": "Loup",
+                "rarity": "Commun",
+                "position": "Défenseur",
+                "element": "Vent"
+            },
+            {
+                "name": "Esprit",
+                "rarity": "Commun",
+                "position": "Gardien",
+                "element": "Eau"
+            },
+            {
+                "name": "Fantôme",
+                "rarity": "Commun",
+                "position": "Attaquant",
+                "element": "Feu"
+            },
+            {
+                "name": "Vampire",
+                "rarity": "Commun",
+                "position": "Milieu",
+                "element": "Terre"
+            },
+            {
+                "name": "Zombie",
+                "rarity": "Commun",
+                "position": "Défenseur",
+                "element": "Bois"
+            },
+            {
+                "name": "Sorcière",
+                "rarity": "Commun",
+                "position": "Milieu",
+                "element": "Vent"
+            },
+            {
+                "name": "Démon",
+                "rarity": "Rare",
+                "position": "Attaquant",
+                "element": "Feu"
+            },
+            {
+                "name": "Spectre",
+                "rarity": "Commun",
+                "position": "Défenseur",
+                "element": "Eau"
+            },
+            {
+                "name": "Revenant",
+                "rarity": "Commun",
+                "position": "Milieu",
+                "element": "Terre"
+            },
+            {
+                "name": "Goule",
+                "rarity": "Commun",
+                "position": "Gardien",
+                "element": "Bois"
+            }
+        ]
+    },
+    {
+        "team": "Équipe Wild",
+        "players": [
+            {
+                "name": "Hugo Tallgeese (Coq)",
+                "rarity": "Légendaire",
+                "position": "Milieu",
+                "element": "Vent"
+            },
+            {
+                "name": "Charlie Boardfield (Sanglier)",
+                "rarity": "Commun",
+                "position": "Défenseur",
+                "element": "Terre"
+            },
+            {
+                "name": "Wilson Fishman (Poisson)",
+                "rarity": "Commun",
+                "position": "Milieu",
+                "element": "Eau"
+            },
+            {
+                "name": "Leonard O'Shea (Lion)",
+                "rarity": "Rare",
+                "position": "Attaquant",
+                "element": "Feu"
+            },
+            {
+                "name": "Peter Johnson (Crapaud)",
+                "rarity": "Commun",
+                "position": "Défenseur",
+                "element": "Bois"
+            },
+            {
+                "name": "Cham Lion (Caméléon)",
+                "rarity": "Commun",
+                "position": "Milieu",
+                "element": "Terre"
+            },
+            {
+                "name": "Bruce Monkey (Singe)",
+                "rarity": "Commun",
+                "position": "Attaquant",
+                "element": "Vent"
+            },
+            {
+                "name": "Steve Eagle (Aigle)",
+                "rarity": "Commun",
+                "position": "Défenseur",
+                "element": "Vent"
+            },
+            {
+                "name": "Adrian Speed (Guépard)",
+                "rarity": "Rare",
+                "position": "Milieu",
+                "element": "Vent"
+            },
+            {
+                "name": "Rex Wolf (Loup)",
+                "rarity": "Commun",
+                "position": "Attaquant",
+                "element": "Bois"
+            },
+            {
+                "name": "Bear McFly (Ours)",
+                "rarity": "Commun",
+                "position": "Gardien",
+                "element": "Terre"
+            }
+        ]
+    },
+    {
+        "team": "Équipe Techtronik",
+        "players": [
+            {
+                "name": "Simon Volkov (Robot)",
+                "rarity": "Légendaire",
+                "position": "Défenseur",
+                "element": "Terre"
+            },
+            {
+                "name": "Cyber",
+                "rarity": "Commun",
+                "position": "Gardien",
+                "element": "Eau"
+            },
+            {
+                "name": "Byte",
+                "rarity": "Commun",
+                "position": "Milieu",
+                "element": "Vent"
+            },
+            {
+                "name": "Code",
+                "rarity": "Commun",
+                "position": "Attaquant",
+                "element": "Feu"
+            },
+            {
+                "name": "Data",
+                "rarity": "Commun",
+                "position": "Défenseur",
+                "element": "Bois"
+            },
+            {
+                "name": "Hack",
+                "rarity": "Rare",
+                "position": "Milieu",
+                "element": "Terre"
+            },
+            {
+                "name": "Virus",
+                "rarity": "Commun",
+                "position": "Attaquant",
+                "element": "Eau"
+            },
+            {
+                "name": "Net",
+                "rarity": "Commun",
+                "position": "Défenseur",
+                "element": "Vent"
+            },
+            {
+                "name": "Program",
+                "rarity": "Commun",
+                "position": "Milieu",
+                "element": "Feu"
+            },
+            {
+                "name": "System",
+                "rarity": "Commun",
+                "position": "Gardien",
+                "element": "Bois"
+            },
+            {
+                "name": "Logic",
+                "rarity": "Rare",
+                "position": "Attaquant",
+                "element": "Terre"
+            }
+        ]
+    },
+    {
+        "team": "Équipe Otaku",
+        "players": [
+            {
+                "name": "Sam Idol",
+                "rarity": "Légendaire",
+                "position": "Gardien",
+                "element": "Eau"
+            },
+            {
+                "name": "Marcus Train",
+                "rarity": "Commun",
+                "position": "Défenseur",
+                "element": "Vent"
+            },
+            {
+                "name": "Hero",
+                "rarity": "Commun",
+                "position": "Attaquant",
+                "element": "Feu"
+            },
+            {
+                "name": "Manga",
+                "rarity": "Commun",
+                "position": "Milieu",
+                "element": "Bois"
+            },
+            {
+                "name": "Game",
+                "rarity": "Rare",
+                "position": "Défenseur",
+                "element": "Terre"
+            },
+            {
+                "name": "Anime",
+                "rarity": "Commun",
+                "position": "Milieu",
+                "element": "Vent"
+            },
+            {
+                "name": "Cosplay",
+                "rarity": "Commun",
+                "position": "Attaquant",
+                "element": "Eau"
+            },
+            {
+                "name": "Fan",
+                "rarity": "Commun",
+                "position": "Défenseur",
+                "element": "Feu"
+            },
+            {
+                "name": "Otaku",
+                "rarity": "Commun",
+                "position": "Milieu",
+                "element": "Bois"
+            },
+            {
+                "name": "Doll",
+                "rarity": "Commun",
+                "position": "Gardien",
+                "element": "Terre"
+            },
+            {
+                "name": "Mecha",
+                "rarity": "Rare",
+                "position": "Attaquant",
+                "element": "Vent"
+            }
+        ]
+    },
+    {
+        "team": "Équipe Royal Academy",
+        "players": [
+            {
+                "name": "Jude Sharp",
+                "rarity": "Légendaire",
+                "position": "Milieu",
+                "element": "Feu"
+            },
+            {
+                "name": "David Samford",
+                "rarity": "Rare",
+                "position": "Défenseur",
+                "element": "Terre"
+            },
+            {
+                "name": "Caleb Stonewall",
+                "rarity": "Commun",
+                "position": "Défenseur",
+                "element": "Terre"
+            },
+            {
+                "name": "William Glass",
+                "rarity": "Commun",
+                "position": "Milieu",
+                "element": "Eau"
+            },
+            {
+                "name": "Bobby Shearer",
+                "rarity": "Commun",
+                "position": "Défenseur",
+                "element": "Vent"
+            },
+            {
+                "name": "Steve Grim (transféré)",
+                "rarity": "Commun",
+                "position": "Milieu",
+                "element": "Eau"
+            },
+            {
+                "name": "Peter Drent",
+                "rarity": "Rare",
+                "position": "Milieu",
+                "element": "Terre"
+            },
+            {
+                "name": "Mark Hill",
+                "rarity": "Commun",
+                "position": "Attaquant",
+                "element": "Feu"
+            },
+            {
+                "name": "Sam Kincaid (transféré)",
+                "rarity": "Commun",
+                "position": "Milieu",
+                "element": "Bois"
+            },
+            {
+                "name": "Tim Saunders (transféré)",
+                "rarity": "Commun",
+                "position": "Milieu",
+                "element": "Vent"
+            },
+            {
+                "name": "Jim Wraith (transféré)",
+                "rarity": "Commun",
+                "position": "Défenseur",
+                "element": "Terre"
+            }
+        ]
+    },
+    {
+        "team": "Équipe Shuriken",
+        "players": [
+            {
+                "name": "Sail Bluesea",
+                "rarity": "Légendaire",
+                "position": "Attaquant",
+                "element": "Eau"
+            },
+            {
+                "name": "Ninja",
+                "rarity": "Commun",
+                "position": "Défenseur",
+                "element": "Bois"
+            },
+            {
+                "name": "Kunai",
+                "rarity": "Rare",
+                "position": "Milieu",
+                "element": "Vent"
+            },
+            {
+                "name": "Shuriken",
+                "rarity": "Commun",
+                "position": "Attaquant",
+                "element": "Feu"
+            },
+            {
+                "name": "Katana",
+                "rarity": "Commun",
+                "position": "Défenseur",
+                "element": "Terre"
+            },
+            {
+                "name": "Fuuma",
+                "rarity": "Commun",
+                "position": "Milieu",
+                "element": "Bois"
+            },
+            {
+                "name": "Jutsu",
+                "rarity": "Commun",
+                "position": "Gardien",
+                "element": "Vent"
+            },
+            {
+                "name": "Kage",
+                "rarity": "Commun",
+                "position": "Attaquant",
+                "element": "Eau"
+            },
+            {
+                "name": "Shinobi",
+                "rarity": "Rare",
+                "position": "Défenseur",
+                "element": "Feu"
+            },
+            {
+                "name": "Iga",
+                "rarity": "Commun",
+                "position": "Milieu",
+                "element": "Terre"
+            },
+            {
+                "name": "Koga",
+                "rarity": "Commun",
+                "position": "Gardien",
+                "element": "Bois"
+            }
+        ]
+    },
+    {
+        "team": "Équipe Terria",
+        "players": [
+            {
+                "name": "Stuart Racoonfur",
+                "rarity": "Légendaire",
+                "position": "Attaquant",
+                "element": "Vent"
+            },
+            {
+                "name": "Wall",
+                "rarity": "Commun",
+                "position": "Défenseur",
+                "element": "Terre"
+            },
+            {
+                "name": "Gate",
+                "rarity": "Rare",
+                "position": "Milieu",
+                "element": "Terre"
+            },
+            {
+                "name": "Defense",
+                "rarity": "Commun",
+                "position": "Défenseur",
+                "element": "Eau"
+            },
+            {
+                "name": "Fortress",
+                "rarity": "Commun",
+                "position": "Milieu",
+                "element": "Bois"
+            },
+            {
+                "name": "Shield",
+                "rarity": "Commun",
+                "position": "Défenseur",
+                "element": "Vent"
+            },
+            {
+                "name": "Barrier",
+                "rarity": "Commun",
+                "position": "Gardien",
+                "element": "Terre"
+            },
+            {
+                "name": "Guard",
+                "rarity": "Commun",
+                "position": "Milieu",
+                "element": "Feu"
+            },
+            {
+                "name": "Block",
+                "rarity": "Rare",
+                "position": "Défenseur",
+                "element": "Eau"
+            },
+            {
+                "name": "Iron",
+                "rarity": "Commun",
+                "position": "Attaquant",
+                "element": "Terre"
+            },
+            {
+                "name": "Steel",
+                "rarity": "Commun",
+                "position": "Milieu",
+                "element": "Vent"
+            }
+        ]
+    },
+    {
+        "team": "Équipe Kirkwood",
+        "players": [
+            {
+                "name": "Marvin Murdock",
+                "rarity": "Légendaire",
+                "position": "Attaquant",
+                "element": "Feu"
+            },
+            {
+                "name": "Axel Blaze (ex)",
+                "rarity": "Rare",
+                "position": "Attaquant",
+                "element": "Feu"
+            },
+            {
+                "name": "Tyler Murdock",
+                "rarity": "Commun",
+                "position": "Défenseur",
+                "element": "Terre"
+            },
+            {
+                "name": "Thomas Murdock",
+                "rarity": "Commun",
+                "position": "Défenseur",
+                "element": "Terre"
+            },
+            {
+                "name": "Toby Murdock",
+                "rarity": "Commun",
+                "position": "Milieu",
+                "element": "Eau"
+            },
+            {
+                "name": "York Nashmith",
+                "rarity": "Commun",
+                "position": "Milieu",
+                "element": "Vent"
+            },
+            {
+                "name": "Malcolm Night",
+                "rarity": "Rare",
+                "position": "Milieu",
+                "element": "Terre"
+            },
+            {
+                "name": "Dan Mirthful",
+                "rarity": "Commun",
+                "position": "Attaquant",
+                "element": "Bois"
+            },
+            {
+                "name": "Alfred Meenan",
+                "rarity": "Commun",
+                "position": "Défenseur",
+                "element": "Feu"
+            },
+            {
+                "name": "Ben Crawshaw",
+                "rarity": "Commun",
+                "position": "Gardien",
+                "element": "Eau"
+            },
+            {
+                "name": "Eddie Frost",
+                "rarity": "Rare",
+                "position": "Milieu",
+                "element": "Vent"
+            }
+        ]
+    },
+    {
+        "team": "Équipe Zeus",
+        "players": [
+            {
+                "name": "Byron Love",
+                "rarity": "Légendaire",
+                "position": "Attaquant",
+                "element": "Feu"
+            },
+            {
+                "name": "Aphrodite",
+                "rarity": "Rare",
+                "position": "Milieu",
+                "element": "Vent"
+            },
+            {
+                "name": "Apollon",
+                "rarity": "Commun",
+                "position": "Attaquant",
+                "element": "Feu"
+            },
+            {
+                "name": "Dionysos",
+                "rarity": "Commun",
+                "position": "Gardien",
+                "element": "Terre"
+            },
+            {
+                "name": "Arès",
+                "rarity": "Rare",
+                "position": "Défenseur",
+                "element": "Feu"
+            },
+            {
+                "name": "Poséidon",
+                "rarity": "Commun",
+                "position": "Milieu",
+                "element": "Eau"
+            },
+            {
+                "name": "Hermès",
+                "rarity": "Commun",
+                "position": "Milieu",
+                "element": "Vent"
+            },
+            {
+                "name": "Hadès",
+                "rarity": "Commun",
+                "position": "Défenseur",
+                "element": "Terre"
+            },
+            {
+                "name": "Zeus",
+                "rarity": "Rare",
+                "position": "Attaquant",
+                "element": "Feu"
+            },
+            {
+                "name": "Athéna",
+                "rarity": "Commun",
+                "position": "Défenseur",
+                "element": "Bois"
+            },
+            {
+                "name": "Artémis",
+                "rarity": "Commun",
+                "position": "Milieu",
+                "element": "Eau"
+            }
+        ]
+    }
+]
